@@ -8,6 +8,12 @@ https://github.com/cccntu/minlora
 
 
 
+# gpt god mode
+
+https://telegra.ph/gpt4-god-mode-03-21
+
+
+
 # gpt 활용 예시들
 
 ###  question-answering over the full history of Lex Fridman podcasts. 
